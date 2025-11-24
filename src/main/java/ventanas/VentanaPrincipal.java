@@ -8,7 +8,6 @@ import javax.swing.table.DefaultTableModel;
 import java.awt.Image;
 import java.awt.Toolkit;
 
-
 public class VentanaPrincipal extends javax.swing.JFrame {
 
     public VentanaPrincipal() {
