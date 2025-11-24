@@ -172,11 +172,10 @@ public class ActualizarUsuario extends javax.swing.JFrame {
                 .addContainerGap(38, Short.MAX_VALUE))
         );
 
-        btnCancelar.setBackground(new java.awt.Color(0, 119, 237));
+        btnCancelar.setBackground(new java.awt.Color(200, 200, 200));
         btnCancelar.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        btnCancelar.setForeground(new java.awt.Color(255, 255, 255));
         btnCancelar.setText("Cancelar");
-        btnCancelar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(204, 204, 204), 2, true));
+        btnCancelar.setBorder(new javax.swing.border.MatteBorder(null));
         btnCancelar.addActionListener(this::btnCancelarActionPerformed);
 
         jPanel2.setBackground(new java.awt.Color(90, 90, 90));
