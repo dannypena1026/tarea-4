@@ -21,7 +21,6 @@ public class LoginVentana extends javax.swing.JFrame {
     setIconImage(icon);
     }
 
-    @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 

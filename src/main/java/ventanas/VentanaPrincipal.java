@@ -5,8 +5,6 @@ import datos.UsuarioDatos;
 import java.util.List;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
-import javax.swing.table.DefaultTableCellRenderer;
-import java.awt.Color;
 import java.awt.Image;
 import java.awt.Toolkit;
 
@@ -112,7 +110,6 @@ public class VentanaPrincipal extends javax.swing.JFrame {
         new LoginVentana().setVisible(true);
     }                                               
 
-    @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
